@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConventer</string>
+    <string name="unitconverter">UnitConverter</string>
+    <string-array name="currency">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>ALL</item>
+    </string-array>
+</resources>
